@@ -29,3 +29,6 @@ C++/OpenMP implementation of Ant Brood Clustering algorithm. If you use the code
   organization={IEEE}
 }
 </pre>
+
+## Copyright
+See [LICENSE](LICENSE) for details.
