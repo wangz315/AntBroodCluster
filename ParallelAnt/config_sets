@@ -1,0 +1,33 @@
+// 15
+file = graphs/15nodeSample.gr
+
+// 34
+file = graphs/karate.gr
+
+// 62
+file = graphs/dolphins.gr
+
+// 77
+file = graphs/lesmis.graph
+
+// 112
+file = graphs/adjnoun.graph
+
+// 115
+file = graphs/football.gr
+
+// 198
+file = graphs/jazz.graph
+
+// 297
+file = graphs/celegansneural.graph
+
+// 453
+file = graphs/celegans_metabolic.graph
+
+// 1133
+file = graphs/email.graph
+
+
+// 560
+file = graphs/sample.gr
