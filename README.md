@@ -1,7 +1,7 @@
 # AntBroodCluster
 My Ant Brood Clustering Algorithm Library. Implemented based on C++/CUDA/OpenMP. All codes should be able complie and run on Linux system. You may use the makefile in each folder to complie and run. Note that not all codes are the "camera ready" version. Feel free to modify the codes to fit your project.
 
-## AdaptiveRadius/
+## AdaptiveRadius
 C++/CUDA/OpenMP implementation of Ant Brood Clustering algorithm with adaptive radius. If you use the code in your project, please cite:
 <pre>
 @inproceedings{qasem2017enhancing,
@@ -14,10 +14,10 @@ C++/CUDA/OpenMP implementation of Ant Brood Clustering algorithm with adaptive r
 }
 </pre>
 
-## BinCluster/
+## BinCluster
 Ant Brood Clustering algorithm based on bin rather than grid. Implemented in C++.
 
-## ParallelAnt/
+## ParallelAnt
 C++/OpenMP implementation of Ant Brood Clustering algorithm. If you use the code in your project, please cite:
 <pre>
 @inproceedings{wang2018ant,
